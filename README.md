@@ -28,9 +28,9 @@ This project explores whether economic indicators such as GDP per capita and hea
  
 ## Files in the Repository
  
-- **data/** → Dataset used for analysis  
-- **notebooks/** → Jupyter Notebook with full analysis and model  
-- **README.md** → Project documentation  
+- **Analysis.ipynb** → Jupyter Notebook containing the full analysis and linear regression model  
+- **P_Data_Extract_From_World_Development_Indicators.xlsx** → Dataset used for the analysis  
+- **README.md** → Project documentation
  
 ---
  
